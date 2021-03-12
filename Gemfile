@@ -27,6 +27,7 @@ gem 'bootstrap-sass', '~> 3.4.1'
 
 gem "paperclip", "~> 6.0.0"
 
+
 gem "figaro"
 
 gem 'devise'
