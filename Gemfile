@@ -32,6 +32,8 @@ gem "figaro"
 
 gem 'devise'
 
+gem 'stripe'
+
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.4', require: false
 

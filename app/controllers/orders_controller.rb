@@ -10,7 +10,9 @@ class OrdersController < ApplicationController
     @orders = Order.all.where(buyer: current_user).order("created_at DESC")
   end
 
+  def show
 
+  end
 
 
   # GET /orders/new
