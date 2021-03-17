@@ -19,12 +19,12 @@ Github link: https://github.com/haden-liu/etsydemo1
 - Functionality / features:
   Customer can sign up as a user. After the sign up, the user can create the new listing for product, and the new listing will belong to user's account. And the user can edit or remove the items using the functions under the manage listing page. User can make order for the product, and they can view the sales history and purchase history in the web.
 - Sitemap
-  ![image info](./images/sitemap.JPG)
+  ![alt text](./images/sitemap.JPG)
 - Screenshots
-  ![image info](./images/screenshot1.JPG)
-  ![image info](./images/screenshot2.JPG)
-  ![image info](./images/screenshot3.JPG)
-  ![image info](./images/screenshot4.JPG)
+  ![alt text](./images/screenshot1.JPG)
+  ![alt text](./images/screenshot2.JPG)
+  ![alt text](./images/screenshot3.JPG)
+  ![alt text](./images/screenshot4.JPG)
 - Target audience
   Individual sellers and buyers who need to exchange their spare items.
 - Tech stack (e.g. html, css, deployment platform, etc)
