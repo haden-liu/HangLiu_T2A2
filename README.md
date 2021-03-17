@@ -19,12 +19,12 @@ Github link: https://github.com/haden-liu/etsydemo1
 - Functionality / features:
   Customer can sign up as a user. After the sign up, the user can create the new listing for product, and the new listing will belong to user's account. And the user can edit or remove the items using the functions under the manage listing page. User can make order for the product, and they can view the sales history and purchase history in the web.
 - Sitemap
-  ![picture](./images/sitemap.JPG)
+  ![picture](app/assets/images/sitemap.JPG)
 - Screenshots
-  ![picture](./images/screenshot1.JPG)
-  ![picture](./images/screenshot2.JPG)
-  ![picture](./images/screenshot3.JPG)
-  ![picture](./images/screenshot4.JPG)
+  ![picture](app/assets/images/screenshot1.JPG)
+  ![picture](app/assets/images/screenshot2.JPG)
+  ![picture](app/assets/images/screenshot3.JPG)
+  ![picture](app/assets/images/screenshot4.JPG)
 - Target audience
   Individual sellers and buyers who need to exchange their spare items.
 - Tech stack (e.g. html, css, deployment platform, etc)
@@ -52,6 +52,6 @@ As a seller, I want to upload details of my items into the web so I can let othe
 
 ## An ERD for your app
 
-![picture](./images/ERD.JPG)
+![picture](app/assets/images/ERD.JPG)
 
 ## Explain the different high-level components (abstractions) in your app
