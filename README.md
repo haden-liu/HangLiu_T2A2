@@ -50,8 +50,24 @@ As a seller, I want to upload details of my items into the web so I can let othe
 
 ## Wireframes for your app
 
+![picture](app/assets/images/wireframe1.JPG)
+
 ## An ERD for your app
 
 ![picture](app/assets/images/ERD.JPG)
 
 ## Explain the different high-level components (abstractions) in your app
+
+The app has built based on the MVC (model, view and controller) framework. the Models handle the relationship among database entities. And the views handle the display of the web contents. And the controllers handle the functions allow users to interact with the application.
+
+The app uses Devise to manage the user's authentication with user's sign up, access and format requirements.
+
+## Describe your projects models in terms of the relationships (active record associations) they have with each other
+
+So far, the app has three main model classes: user, listing, and order.
+
+In term of the relationship, a user could have none to many listings, and each listing must belongs to one particular user. And a user could have non to many orders, and each order must belong to a user, and associated with one item.
+
+## Provide your database schema design
+
+![picture](app/assets/images/schema.JPG)
