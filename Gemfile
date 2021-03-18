@@ -26,12 +26,11 @@ gem 'bootstrap-sass', '~> 3.4.1'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
-gem "paperclip", "~> 3.1"
-
-gem "paperclip-dropbox", ">= 1.1.7"
+gem "paperclip", "~> 6.0.0"
 
 
-gem "figaro"
+
+
 
 gem 'devise'
 
