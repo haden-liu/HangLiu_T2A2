@@ -6,7 +6,7 @@ People now need a one-stop Ebay like website to sell their spare items, and buy 
 
 ## A link (URL) to your deployed app (i.e. website)
 
-The application has been deployed to: https://etsydemo-haden.herokuapp.com/
+The application has been deployed to: https://hadendemo-2021.herokuapp.com/
 
 ## A link to your GitHub repository (repo).
 
